@@ -4,4 +4,4 @@ parent: CoLTE
 grand_parent: Learn
 ---
 
-### How to configure CoLTE
+# How to configure CoLTE
