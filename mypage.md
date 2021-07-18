@@ -1,5 +1,5 @@
 ---
-title: Test
+title: MyPage
 ---
 
-# Hello
+# Hello this is MyPage
