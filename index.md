@@ -1,5 +1,6 @@
 ---
 title: Test-Docs
+parent: Learn
 has_children: true
 ---
 
