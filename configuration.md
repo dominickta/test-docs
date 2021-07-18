@@ -1,7 +1,7 @@
 ---
 title: Configuration
 parent: CoLTE
-grand-parent: Learn
+grand_parent: Learn
 ---
 
 ### How to configure CoLTE
