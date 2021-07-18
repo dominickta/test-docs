@@ -1,6 +1,7 @@
 ---
 title: CoLTE
-parent: Learn
+grand_parent: Learn
+parent: Test-Docs
 ---
 
 # Hello this is MyPage
