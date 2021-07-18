@@ -1,7 +1,7 @@
 ---
-title: Test-Docs
+title: CoLTE
 parent: Learn
 has_children: true
 ---
 
-# Test-Docs index.md
+# CoLTE index.md

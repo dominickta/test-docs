@@ -1,7 +1,7 @@
 ---
-title: CoLTE
+title: Installation
+parent: CoLTE
 grand_parent: Learn
-parent: Test-Docs
 ---
 
-# Hello this is MyPage
+# How to install CoLTE
